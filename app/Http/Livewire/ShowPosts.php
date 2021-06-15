@@ -8,7 +8,7 @@ use Livewire\Component;
 class ShowPosts extends Component
 {
 
-    public Collection $posts;
+    public $posts;
 
     public function render()
     {
